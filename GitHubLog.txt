@@ -1,0 +1,142 @@
+2016-09-28 12:37:55.8390|INFO|thread: 1|SoftwareUpdateViewModel|Checking for new version
+2016-09-28 12:37:13.7336|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2016-09-28 12:37:13.7648|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-09-28 12:37:13.7648|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| #########################################
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.3.1.0
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| Build version: 906de22474a9fc0f091e6cd4d59d101755808c56
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***************************************
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***                                 ***
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| ***************************************
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| OS Version: Windows 10 10.0.10240.0 amd64
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| Current culture: es-MX
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2016-09-28 12:37:13.7961|INFO|thread: 4|StartupLogging| Location: C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54\GitHub.exe
+2016-09-28 12:37:13.8117|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-09-28 12:37:13.8117|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54\GitHub.exe
+2016-09-28 12:37:13.8273|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-09-28 12:37:13.8273|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-09-28 12:37:13.8586|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3588:/tmp/ssh-yZ0MEP7ppUY9/agent.3504
+2016-09-28 12:37:13.8586|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\bin;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\share\git-tfs;C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54;C:\Users\Zuly\AppData\Local\GitHub\lfs-amd64_1.3.1;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| =====================================================
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| =====================================================
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9'
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd\git.exe'
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2016-09-28 12:37:13.8586|INFO|thread: 4|StartupLogging| PATH: C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2016-09-28 12:37:13.8898|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2016-09-28 12:37:13.8898|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2016-09-28 12:37:13.8898|INFO|thread: 1|App|Checking whether application is network deployed: True
+2016-09-28 12:37:13.8898|INFO|thread: 1|App|Shortcut C:\Users\Zuly\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2016-09-28 12:37:14.0148|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54\Images\App.ico'
+2016-09-28 12:37:18.1086|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2016-09-28 12:37:18.1242|INFO|thread: 1|GitClient|Installing git lfs filters
+2016-09-28 12:37:18.1711|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 3588:/tmp/ssh-yZ0MEP7ppUY9/agent.3504
+2016-09-28 12:37:18.1711|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\bin;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\share\git-tfs;C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54;C:\Users\Zuly\AppData\Local\GitHub\lfs-amd64_1.3.1;C:\Windows\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-09-28 12:37:18.2336|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\Zuly\AppData\Local\Temp\
+2016-09-28 12:37:18.3117|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-09-28 12:37:18.3117|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-09-28 12:37:19.4836|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-09-28 12:37:19.6868|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-09-28 12:37:19.6868|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 162 entries
+2016-09-28 12:37:19.7336|INFO|thread: 4|StartupSequence|Took 266ms to Update certificate bundle from system store
+2016-09-28 12:37:20.4055|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-09-28 12:37:21.1061|WARN|thread:12|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-09-28 12:37:21.8589|WARN|thread: 1|RepositoryHost|Got an authorization exception: Bad credentials
+Octokit.AuthorizationException: Bad credentials
+   en Octokit.Connection.HandleErrors(IResponse response)
+   en Octokit.Connection.<RunRequest>d__27.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Octokit.Connection.<Run>d__23`1.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2016-09-28 12:37:22.0932|INFO|thread: 1|RepositoryHost|Log in from cache for login '(null)' to host 'https://api.github.com/' FAILED
+2016-09-28 12:37:22.6089|INFO|thread:11|DashboardViewModel|Selected repository '/Tutorial'
+2016-09-28 12:37:22.6401|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:605
+2016-09-28 12:37:22.6401|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:605 after waiting 0.0028862s
+2016-09-28 12:37:22.6401|INFO|thread:11|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:583
+2016-09-28 12:37:22.7026|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:605 after blocking 0.0659559s
+2016-09-28 12:37:22.7183|INFO|thread: 4|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:583 after waiting 0.0657301s
+2016-09-28 12:37:23.5151|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:600
+2016-09-28 12:37:23.7495|INFO|thread: 4|DashboardViewModel|Took 1118ms to Create RepositoryViewModel for location C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-09-28 12:37:23.7495|INFO|thread: 4|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:583 after blocking 1.0356142s
+2016-09-28 12:37:23.7495|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:600 after waiting 0.2303584s
+2016-09-28 12:37:23.7964|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at RepositoryViewModel.cs:319
+2016-09-28 12:37:23.7964|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:600 after blocking 0.0511945s
+2016-09-28 12:37:23.7964|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at RepositoryViewModel.cs:319 after waiting 0.0057828s
+2016-09-28 12:37:23.9839|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at RepositoryViewModel.cs:319 after blocking 0.1882391s
+2016-09-28 12:37:24.1401|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at GitClient.cs:195
+2016-09-28 12:37:24.1401|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at GitClient.cs:195 after waiting 0.0014845s
+2016-09-28 12:37:24.1401|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at RepositoryModel.cs:596
+2016-09-28 12:37:24.1558|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2016-09-28 12:37:24.2183|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after waiting 0.0756764s
+2016-09-28 12:37:24.2339|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at GitClient.cs:195 after blocking 0.0892516s
+2016-09-28 12:37:24.2339|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.07426s
+2016-09-28 12:37:24.2339|INFO|thread: 4|SoftwareUpdateViewModel|Checking for new version
+2016-09-28 12:37:24.2651|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at NewPullRequestViewModel.cs:245
+2016-09-28 12:37:24.2651|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at GitClient.cs:267
+2016-09-28 12:37:24.2651|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 0.033574s
+2016-09-28 12:37:24.2808|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at NewPullRequestViewModel.cs:245 after waiting 0.019314s
+2016-09-28 12:37:24.2808|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after blocking 0.0561255s
+2016-09-28 12:37:24.2808|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at GitClient.cs:267 after waiting 0.01079s
+2016-09-28 12:37:25.6245|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at NewPullRequestViewModel.cs:245 after blocking 1.3509942s
+2016-09-28 12:37:25.6558|INFO|thread:12|GitEnvironment|Process set up with this SSH Agent info: 3588:/tmp/ssh-yZ0MEP7ppUY9/agent.3504
+2016-09-28 12:37:25.6558|INFO|thread:12|GitEnvironment|PATH is C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\bin;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\share\git-tfs;C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54;C:\Users\Zuly\AppData\Local\GitHub\lfs-amd64_1.3.1;C:\Windows\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-09-28 12:37:25.6558|INFO|thread:12|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-09-28 12:37:26.2808|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:588
+2016-09-28 12:37:26.3120|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:588 after waiting 0.0208609s
+2016-09-28 12:37:27.2082|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at BranchesViewModel.cs:356
+2016-09-28 12:37:27.2082|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at RepositoryViewModel.cs:319
+2016-09-28 12:37:27.4895|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:588 after blocking 1.18174s
+2016-09-28 12:37:27.4895|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at BranchesViewModel.cs:356 after waiting 0.2772994s
+2016-09-28 12:37:27.5676|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at RepositoryViewModel.cs:319 after waiting 0.3585702s
+2016-09-28 12:37:27.5676|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at BranchesViewModel.cs:356 after blocking 0.0864892s
+2016-09-28 12:37:27.7239|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at RepositoryViewModel.cs:319 after blocking 0.1463933s
+2016-09-28 12:37:27.7239|INFO|thread:12|ConcurrentRepositoryConnection|Took 2065ms to git status
+2016-09-28 12:37:27.7239|INFO|thread:12|ConcurrentRepositoryConnection|Took 2066ms to git status and parse output
+2016-09-28 12:37:27.7708|INFO|thread:12|NewCommitViewModel|Took 3495ms to load files for C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-09-28 12:37:27.7708|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at GitClient.cs:267 after blocking 3.4840153s
+2016-09-28 12:37:28.0461|INFO|thread: 1|NewCommitViewModel|Took 275ms to render file list for C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-09-28 12:37:28.0461|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:319
+2016-09-28 12:37:28.0461|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at RepositoryViewModel.cs:319
+2016-09-28 12:37:28.0461|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:319 after waiting 0.0064771s
+2016-09-28 12:37:28.0461|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:319 after blocking 8E-06s
+2016-09-28 12:37:28.0461|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at RepositoryViewModel.cs:319 after waiting 0.0063129s
+2016-09-28 12:37:28.0681|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at RepositoryViewModel.cs:319 after blocking 0.0141529s
+2016-09-28 12:37:29.5488|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at GitClient.cs:381
+2016-09-28 12:37:29.5488|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at GitClient.cs:381 after waiting 7.99E-05s
+2016-09-28 12:37:29.5809|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 3588:/tmp/ssh-yZ0MEP7ppUY9/agent.3504
+2016-09-28 12:37:29.5809|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\bin;C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\usr\share\git-tfs;C:\Users\Zuly\AppData\Local\Apps\2.0\0HLN7531.ED0\T1H8XBTL.YWJ\gith..tion_317444273a93ac29_0003.0003_83ed0490a76a8c54;C:\Users\Zuly\AppData\Local\GitHub\lfs-amd64_1.3.1;C:\Windows\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-09-28 12:37:29.5809|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Zuly\AppData\Local\GitHub\PortableGit_284a859b0e6deba86edc624fef1e4db2aa8241a9\cmd\git.exe', Args: 'diff-tree -r -z --no-renames --name-status 4b825dc642cb6eb9a060e54bf8d69288fbee4904 19ce9d8ff1fccf510df82d99a65f48c649b7becd ', Working Directory: C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-09-28 12:37:29.7860|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at GitClient.cs:381 after blocking 0.2374051s
+2016-09-28 12:37:29.8410|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at ICommittedFileForklift.cs:95
+2016-09-28 12:37:29.8430|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at ICommittedFileForklift.cs:95 after waiting 0.0019427s
+2016-09-28 12:37:29.9051|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at ICommittedFileForklift.cs:95 after blocking 0.0624655s
+2016-09-28 12:37:30.7456|INFO|thread: 1|SelectedCommitViewModel|Took 1225ms to load files for commit 01ad915 in repo C:\Users\Zuly\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-09-28 12:37:46.8498|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-09-28 12:37:46.8498|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at GitClient.cs:181
+2016-09-28 12:37:46.8498|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at GitClient.cs:181 after waiting 0.0001605s
+2016-09-28 12:37:46.8654|INFO|thread:12|GitClient|Grabbing Repo Settings
+2016-09-28 12:37:46.8654|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at GitClient.cs:181 after blocking 0.0108208s
+2016-09-28 12:37:47.1310|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:626
+2016-09-28 12:37:47.1310|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:626 after waiting 0.0001238s
+2016-09-28 12:37:47.1623|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:626 after blocking 0.0180721s
+2016-09-28 12:37:49.8357|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-09-28 12:37:49.8357|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-09-28 12:37:55.8390|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
